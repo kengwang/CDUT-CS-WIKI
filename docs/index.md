@@ -14,16 +14,16 @@ hero:
       link: /column/01_foreward
     - theme: alt
       text: 计算机科学
-      link: /api-examples
+      link: /column/no_data
     - theme: alt
       text: 网络安全
-      link: /api-examples    
+      link: /column/no_data    
     - theme: alt
       text: 软件工程
-      link: /api-examples
+      link: /column/no_data
     - theme: alt
       text: 电子信息
-      link: /api-examples
+      link: /column/no_data
 
 features:
   - title: 免费资源
